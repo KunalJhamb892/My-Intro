@@ -24,11 +24,11 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Deepanshu',
-    'I\'m a 3rd Year B.Tech-IT Student',
+    'I\'m a 4th Year B.Tech-IT Student',
     'From USICT,GGSIPU Delhi',
     'I\'m a Competitive Programmerr and love to design Algorithms and implement them.',
     'I\'m currently looking for an Internship.<br> You can contact me at <a href="cdeepanshu1999@gmail.com">cdeepanshu1999@gmail.com</a>',
-    '<a target="_blank" href="https://drive.google.com/file/d/1fT3W0o7KSj2hwSFcMXJuC2vs7oUgfZGZ/view?usp=sharing">resume/deepanshu</a><br><a target="_blank" href="https://www.linkedin.com/in/deepanshu-singh-chauhan-6b374b167/">linkedin.com/deepanshu</a><br><a target="_blank" href="https://github.com/cdeepanshu">github.com/deepanshu</a>',
+    '<a target="_blank" href="https://drive.google.com/file/d/1DtJDa1IVY06OqoFj1PXA_GZ4Nrb3j_Fa/view?usp=sharing">resume/deepanshu</a><br><a target="_blank" href="https://www.linkedin.com/in/deepanshu-singh-chauhan-6b374b167/">linkedin.com/deepanshu</a><br><a target="_blank" href="https://github.com/cdeepanshu">github.com/deepanshu</a>',
     getCurrentTime(),
     '👀 J.'
   ]
